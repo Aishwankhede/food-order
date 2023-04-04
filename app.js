@@ -16,38 +16,38 @@ closeShopping.addEventListener('click', ()=>{
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
+        name: 'BURGER',
         image: '1.jfif',
         price: 120.000
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'DOSA',
         image: 'dosa.jfif',
         price: 120.000
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3', 
+        name: 'FRENCH FRIES', 
         image: 'fries.jfif',
         price: 220.000
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'PIZZA ',
         image: 'pizza1.jfif',
         price: 450.000
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'SANDWICH',
         image: 'sandwich1.jfif',
         price: 120.000
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
-        image: 'momos.jfif',
+        name: 'PANIPURI',
+        image: 'panipuri.jfif',
         price: 120.000
     }
 ];

@@ -48,7 +48,7 @@ let products = [
         id: 6,
         name: 'PANIPURI',
         image: 'panipuri.jfif',
-        price: 120.000
+        price: 60.000
     }
 ];
 let listCards  = [];
